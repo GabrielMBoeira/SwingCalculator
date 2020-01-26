@@ -1,4 +1,4 @@
 # SwingCalculator
 
-Projeto em Java, adquirindo conhecimentos em Swing / Java. 
+Projeto JAVA, adquirindo conhecimentos em Swing.
 
