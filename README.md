@@ -1,1 +1,4 @@
-# project1
+# SwingCalculator
+
+Projeto em Java, adquirindo conhecimentos em Swing / Java. 
+
